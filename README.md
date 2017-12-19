@@ -17,3 +17,11 @@ Content Provider is used to create image files after taking the photo and store 
 Shared Preferences method is used to store the data of the images and array of items' data. <br>
 
 Async is used to delete file when the delete event is evoke. <br>
+
+<h2>SCREENSHOTS</h2>
+
+![25465663_739494099576570_111746637_n](https://user-images.githubusercontent.com/16409363/34184037-7175773e-e526-11e7-8357-36efe361f09e.jpg)
+
+![25465834_739494096243237_907379785_n](https://user-images.githubusercontent.com/16409363/34184041-72eb5660-e526-11e7-97fd-893f726694e3.jpg)
+
+
